@@ -16,3 +16,7 @@ a.logo {
 header a {
   color: inherit;
 }
+
+header nav.center {
+  text-align: center;
+}
