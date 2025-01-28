@@ -3,6 +3,10 @@ body {
   font-family: "M PLUS 1", serif;
 }
 
+.desktop {
+  display: none;
+}
+
 header {
   display: grid;
   grid-template-columns: auto 1fr auto;
