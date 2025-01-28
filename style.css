@@ -37,3 +37,7 @@ header nav a {
 header nav.center {
   text-align: center;
 }
+
+header nav.right {
+  text-align: right;
+}
