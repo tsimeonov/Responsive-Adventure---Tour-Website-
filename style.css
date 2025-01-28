@@ -10,4 +10,5 @@ header {
 a.logo {
   height: 12px;
   width: 100px;
+  color: inherit;
 }
