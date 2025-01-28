@@ -12,3 +12,7 @@ a.logo {
   width: 100px;
   color: inherit;
 }
+
+header a {
+  color: inherit;
+}
