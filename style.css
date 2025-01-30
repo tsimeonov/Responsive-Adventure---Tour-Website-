@@ -54,5 +54,6 @@ header nav.right {
 
 section {
   height: 100vh;
-  outline: 3px solid red;
+  background-size: cover;
+  background-position: center center;
 }
