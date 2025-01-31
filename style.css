@@ -116,7 +116,7 @@ aside {
   right: 0;
   width: 320px;
   background-color: white;
-  padding: 30px;
+  padding: 50px 30px;
   z-index: 4;
   height: 100vh;
 }
