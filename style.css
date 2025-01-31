@@ -65,3 +65,7 @@ section .content {
   padding-bottom: 15vh;
   text-align: center;
 }
+
+section h1 {
+  font-size: 3rem;
+}
