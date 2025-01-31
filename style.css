@@ -153,3 +153,7 @@ aside button.close {
   background-color: rgba(0, 0, 0, 0.35);
   backdrop-filter: blur(5px);
 }
+
+.backdrop.active {
+  display: block;
+}
