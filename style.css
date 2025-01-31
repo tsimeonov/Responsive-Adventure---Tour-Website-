@@ -118,4 +118,5 @@ aside {
   background-color: white;
   padding: 30px;
   z-index: 4;
+  height: 100vh;
 }
