@@ -121,6 +121,10 @@ aside {
   height: 100vh;
 }
 
+aside.active {
+  right: 0;
+}
+
 aside a {
   display: block;
   color: inherit;
