@@ -87,3 +87,10 @@ section .buttons a {
   font-size: 12px;
   font-weight: 500;
 }
+
+/* Default view for the buttons */
+
+section .buttons {
+  display: grid;
+  row-gap: 20px;
+}
