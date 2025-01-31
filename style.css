@@ -75,3 +75,15 @@ section h1 {
 section a {
   color: inherit;
 }
+
+section .buttons a {
+  display: block;
+  background-color: #eee;
+  color: inherit;
+  padding: 12px 50px;
+  border-radius: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+}
