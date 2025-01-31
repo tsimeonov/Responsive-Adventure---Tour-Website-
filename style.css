@@ -113,7 +113,7 @@ section .buttons {
 
 aside {
   position: fixed;
-  right: 0;
+  right: -320px;
   width: 320px;
   background-color: white;
   padding: 80px 40px;
@@ -143,6 +143,7 @@ aside button.close {
 }
 
 .backdrop {
+  display: none;
   position: fixed;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.35);
