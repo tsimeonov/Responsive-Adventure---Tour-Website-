@@ -136,4 +136,6 @@ aside button.close {
   top: 10px;
   right: 10px;
   padding: 10px;
+  font-family: sans-serif;
+  font-weight: 100;
 }
