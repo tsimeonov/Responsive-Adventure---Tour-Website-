@@ -69,3 +69,7 @@ section .content {
 section h1 {
   font-size: 3rem;
 }
+
+section a {
+  color: inherit;
+}
