@@ -88,6 +88,12 @@ section .buttons a {
   font-weight: 500;
 }
 
+section,
+.buttons a:first-child {
+  background-color: #444;
+  color: #fff;
+}
+
 /* Buttons view for smaller screens */
 
 section .buttons {
