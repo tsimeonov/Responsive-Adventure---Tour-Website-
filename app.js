@@ -10,4 +10,5 @@ const closeMenu = () => {
 
 document.getElementById("menuBtn").onclick = (e) => {
   e.preventDefault();
+  openMenu();
 };
