@@ -99,6 +99,7 @@ section,
 section .buttons {
   display: grid;
   row-gap: 20px;
+  margin: 0 70px;
 }
 
 @media (min-width: 768px) {
