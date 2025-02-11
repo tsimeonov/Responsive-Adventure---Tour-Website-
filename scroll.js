@@ -1,4 +1,5 @@
 document.lasScrollPosition = 0;
+document.lastCentered = 0;
 
 document.addEventListener("scroll", () => {
   const direction =
